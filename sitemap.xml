@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="杭州美俪科技有限公司" title="杭州美俪科技有限公司">
+<page file="pay.html" text="美丽支付" title="杭州美俪科技有限公司"/>
+<page file="tv.html" text="美丽TV" title="杭州美俪科技有限公司"/>
+<page file="about.html" text="关于我们" title="杭州美俪科技有限公司"/>
+</page>
+</site>
