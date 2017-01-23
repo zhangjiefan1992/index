@@ -1,4 +1,0 @@
-http://www.meilikeji.cn/index.html	index
-http://www.meilikeji.cn/pay.html	pay
-http://www.meilikeji.cn/tv.html	tv
-http://www.meilikeji.cn/about.html	about
